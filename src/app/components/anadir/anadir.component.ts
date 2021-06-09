@@ -42,8 +42,6 @@ export class AnadirComponent implements OnInit {
 else{
   console.log('su formulario no es valido')
 
-}
     }
-    
-
+  }
 }
